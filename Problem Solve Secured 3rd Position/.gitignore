@@ -1,0 +1,8 @@
+node_modules
+.env
+dist
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+backend/data/db.json
